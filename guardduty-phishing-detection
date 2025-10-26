@@ -1,5 +1,1 @@
 regish-cloud-security/
-└── guardduty-phishing/
-    ├── README.md
-    ├── lambda-block-ip.py
-    └── screenshots/# Project #2: AWS
